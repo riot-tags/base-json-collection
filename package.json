@@ -1,0 +1,29 @@
+{
+  "name": "riot-tag-base-json-collection",
+  "version": "0.5.1",
+  "description": "Tag to keep track of remote collection.",
+  "main": "base-json-collection.tag",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riot-tags/base-json-collection.git"
+  },
+  "keywords": [
+    "riot-tag",
+    "ajax",
+    "json",
+    "remote",
+    "collection"
+  ],
+  "author": "Per-Håkan Westman <ph@aspsele.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riot-tags/base-json-collection/issues"
+  },
+  "homepage": "https://github.com/riot-tags/base-json-collection",
+  "dependencies": {
+    "riot-tag-base-ajax-json": "^0.5.0"
+  }
+}
