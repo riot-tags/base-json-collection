@@ -1,6 +1,6 @@
 {
   "name": "riot-tag-base-json-collection",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Tag to keep track of remote collection.",
   "main": "base-json-collection.tag",
   "scripts": {
